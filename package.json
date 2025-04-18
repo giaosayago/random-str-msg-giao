@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-giao",
+  "version": "1.0.0",
+  "description": "Random  string messages giao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giaosayago/random-str-msg-giao.git"
+  },
+  "keywords": [],
+  "author": "Giovanni Sayago ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giaosayago/random-str-msg-giao/issues"
+  },
+  "homepage": "https://github.com/giaosayago/random-str-msg-giao#readme",
+  "bin": {
+    "random-str-msg-giao": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
